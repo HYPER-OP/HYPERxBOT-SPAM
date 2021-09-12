@@ -17,8 +17,8 @@
 ## String Session FOR  BOT AND IDS 
 
 
-   - BOT STRING [![Run on Repl.it](https://replit.com/@hyperop6666/HYPER-SPAM-BOT-REPL#main.py)](https://replit.com/@hyperop6666/HYPER-SPAM-BOT-REPL#main.py)
-   - IDS STRING [![Run on Repl.it](https://replit.com/@hyperop6666/HYPER-REPL#main.py)](https://replit.com/@hyperop6666/HYPER-REPL#main.py)
+   - BOT STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@hyperop6666/HYPER-SPAM-BOT-REPL#main.py)
+   - IDS STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@hyperop6666/HYPER-REPL#main.py)
 
 
 # FEATURES
