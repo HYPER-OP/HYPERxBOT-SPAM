@@ -17,8 +17,8 @@
 ## String Session FOR  BOT AND IDS 
 
 
-   - BOT STRING [![Run on Repl.it](https://replit.com/@hyperop6666/HYPER-SPAM-BOT-REPL#main.py)](https://replit.com/@unknownforall1/SPAM-BOT-REPL-BY-SIDDHANT-DEVIL)
-   - IDS STRING [![Run on Repl.it](https://replit.com/@hyperop6666/HYPER-REPL#main.py)](https://replit.com/@unknownforall1/FATHER-SID-OP-SPAM-BOT)
+   - BOT STRING [![Run on Repl.it](https://replit.com/@hyperop6666/HYPER-SPAM-BOT-REPL#main.py)](https://replit.com/@hyperop6666/HYPER-SPAM-BOT-REPL#main.py)
+   - IDS STRING [![Run on Repl.it](https://replit.com/@hyperop6666/HYPER-REPL#main.py)](https://replit.com/@hyperop6666/HYPER-REPL#main.py)
 
 
 # FEATURES
