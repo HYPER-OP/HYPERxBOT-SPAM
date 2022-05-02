@@ -1,5 +1,5 @@
 build:
   docker:
-    Riz: Dockerfile
+    xd: Dockerfile
 run:
-  Riz: python3 -m RiZoeLXSpam
+  xd: python3 -m HYPERxSPAM
