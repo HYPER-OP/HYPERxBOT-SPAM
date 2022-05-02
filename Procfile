@@ -1,1 +1,1 @@
-Riz: python -m RiZoeLXSpam
+xd: python -m HYPERxSPAM
