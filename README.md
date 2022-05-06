@@ -16,7 +16,7 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-OP/HYPER-MULTI-SPAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-OP/HYPERxBOT-SPAM)
 
 
 # Support & Updates
