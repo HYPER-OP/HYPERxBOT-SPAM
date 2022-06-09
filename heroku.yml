@@ -1,0 +1,5 @@
+build:
+  docker:
+    xd: Dockerfile
+run:
+  xd: python3 -m HYPERxSPAM
